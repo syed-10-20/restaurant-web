@@ -458,7 +458,7 @@ checkoutButton.addEventListener(
 
 
         alert(
-            "Order placed successfully! 🍔\n\nThank you for ordering with Savora."
+            "Order placed successfully! 🍔\n\nThank you for ordering with Ratel X."
         );
 
 
